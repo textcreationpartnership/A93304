@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Newcastle of the Commissioners their message delivered to the King; and their debates with the Scots Commissioners. And how the Scots have quit the city and garrison of Durham; and the garrisons of Hartlepoole and Stockton, and Major General Skippon possessed thereof, on Tuesday last, Jan. 26. 1646. Also, a letter delivered from the Parliament of Scotland to the King; in answer to His Majesties two quæres. Appointed to be printed and published, according to order of Parliament, Feb. 1. 1646.</title>
+            <author>Sitrauk, W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93304</idno>
+            <idno type="STC">Wing S3910</idno>
+            <idno type="STC">Thomason E373_5</idno>
+            <idno type="STC">ESTC R201326</idno>
+            <idno type="EEBO-CITATION">99861850</idno>
+            <idno type="PROQUEST">99861850</idno>
+            <idno type="VID">160149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160149)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E373[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Newcastle of the Commissioners their message delivered to the King; and their debates with the Scots Commissioners. And how the Scots have quit the city and garrison of Durham; and the garrisons of Hartlepoole and Stockton, and Major General Skippon possessed thereof, on Tuesday last, Jan. 26. 1646. Also, a letter delivered from the Parliament of Scotland to the King; in answer to His Majesties two quæres. Appointed to be printed and published, according to order of Parliament, Feb. 1. 1646.</title>
+                  <author>Sitrauk, W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Coe, neer Cripplegate,,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at foot of page 5: W. Sitrauk.</note>
+                  <note>Annotation on Thomason copy: "feb: 1st 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160149:1" rendition="simple:additions"/>
+            <p>A LETTER FROM NEWCASTLE OF The COMMISSIONERS their Meſſage delivered to the KING; and their De<g ref="char:EOLhyphen"/>bates with the <hi>Scots Commiſſioners.</hi>
+            </p>
+            <p>AND How the SCOTS have quit the City and Gar<g ref="char:EOLhyphen"/>riſon of <hi>Durham;</hi> and the Garriſons of <hi>Hartlepoole</hi> and <hi>Stockton,</hi> and Major General <hi>Skippon</hi> poſſeſſed there<g ref="char:EOLhyphen"/>of, on Tueſday laſt, <hi>Jan.</hi> 26. 1646.</p>
+            <p>ALSO, A LETTER delivered from the Parliament of <hi>Scotland</hi> to the KING; in Anſwer to His Majeſties two QVaeRES.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>APpointed to be Printed and Publiſhed, according to <hi>Order of Parliament,</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>Feb. 1. 1646.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON: Printed by J. COE, neer Cripplegate, <hi>Anno Dom.</hi> 1647. <add>Feb: 7<hi rend="sup">th</hi> 1646</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160149:2"/>
+            <pb n="1" facs="tcp:160149:2"/>
+            <head>A LETTER FROM NEVVCASTLE, OF The Commiſſioners, their Meſſage delivered to the <hi>King,</hi> and their de<g ref="char:EOLhyphen"/>bates with the <hi>Scots</hi> Commiſſi<g ref="char:EOLhyphen"/>oners, &amp;c.</head>
+            <opener>
+               <salute>Honoured SIR,</salute>
+            </opener>
+            <p>ON Saturday laſt, the 22. of Jan. Inſtant, the Engliſh Commiſſioners, the Earle of <hi>Pembroke,</hi> the Earle of <hi>Denbigh,</hi> Lord <hi>Mountague,</hi> Sir <hi>John Holland,</hi> Sir <hi>Walter Earle,</hi> Sir <hi>Iames Harrington,</hi> Sir <hi>Iohn Cooke,</hi> Mr. <hi>Crew,</hi> and Major Generall <hi>Browne,</hi> came from <hi>Durham,</hi> hither to <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> with the Gentlemen appointed to wayte upon the King, Collonel <hi>Thomas Herbert,</hi> Mr. <hi>Maxvill,</hi> Mr. <hi>Auſtley,</hi> Mr. <hi>Iames Harrington,</hi> Sir <hi>Fouke Grivel,</hi> Mr. <hi>Anthony Mild<g ref="char:EOLhyphen"/>may,</hi>
+               <pb n="2" facs="tcp:160149:3"/>and Captaine <hi>Middleton,</hi> Doctor <hi>Wilſon</hi> the Phiſition, alſo, and divers Gentlemen more accompanying of them.</p>
+            <p>Some of the <hi>Scots</hi> Commiſſioners, with the Mayor, and the Governour, and other Gentlemen met them, His Excel<g ref="char:EOLhyphen"/>lency Generall <hi>Leven,</hi> was then with the King: His Majeſty being then at <hi>Goffe,</hi> whither he never goes, nor any where elſe out of the Towne, but his Excellency waytes upon His Majeſty, conſidering how ſtrict a charge is layd upon him, by both Kingdomes. There was a fayre houſe in St. <hi>Johns</hi> parriſh provided in the Commiſſioners quarters, where they are, a good diſtance from the Court, The Earle of <hi>Stamford,</hi> Mr. <hi>Aſhurſt,</hi> ſtay with Major Generall <hi>Skippon.</hi>
+            </p>
+            <p>After that His Majeſty came from <hi>Goffe,</hi> and the Gene<g ref="char:EOLhyphen"/>rall had liberty, his Excellency (with the Lord <hi>Lowdoune,</hi> Lord <hi>Belcarris,</hi> Lord <hi>Lothirn,</hi> Lord <hi>Traquire,</hi> Lord <hi>Garthland,</hi> and others of the Commiſſioners, and Miniſters of <hi>Scotland,</hi> came that night to the Commiſſioners quarters to give them a viſit, Sir <hi>Arthur Forſter,</hi> Sir <hi>William Carr,</hi> Collonel <hi>Wel<g ref="char:EOLhyphen"/>den,</hi> Lieutenant Collonel <hi>Strangeny,</hi> Lieutenant Collonel <hi>Bal<g ref="char:EOLhyphen"/>bibueriwood,</hi> and Lieutenant Collonel <hi>Doglas,</hi> were then <hi>Hoſtages</hi> with Major Generall <hi>Skippon</hi> at <hi>Northallerton.</hi>
+            </p>
+            <p>The <hi>Scots</hi> Commiſſioners being come to the <hi>Engliſh,</hi> there were very free and full expreſſions of love and affection, each to other, Mr. <hi>Stephen Marſhall,</hi> and Mr. <hi>Caroll,</hi> Miniſters to the Engliſh Commiſſioners did lovingly ſalute each other, and after ſome diſcourſe, and many expreſſions of amity, it being Saturday night, they parted, the Scots promiſing to be with them againe on the Munday following; And I muſt not for<g ref="char:EOLhyphen"/>get to tell you, that the Mayor, and the Inhabitants expreſſ<g ref="char:EOLhyphen"/>ed as much affections to them as could be, and have been ex<g ref="char:EOLhyphen"/>ceeding ready and willing to accomodate them with any thing.</p>
+            <p>On the Lords day Jan. 34. Mr. <hi>Caryll,</hi> and Mr. <hi>Martiall</hi> preached before the <hi>Engliſh</hi> Commiſſioners very zealouſly, and divinely, Mr. <hi>Marſhalls</hi> text was <hi>Matthew</hi> 11. and the 12. verſe, The words are thus. <hi>And from the dayes of Iohn the Baptiſt till now, the Kingdome of Heaven ſuffereth violence, and the violent take it by force;</hi> out of which he made a very
+<pb n="3" facs="tcp:160149:3"/>ſeaſonable Sermon, and Mr. <hi>Caryll</hi> was moſt excellent.</p>
+            <p>The <hi>King</hi> alſo heard 2. Sermons that day, one, by one of the <hi>Scots</hi> Miniſters, and the other by an <hi>Engliſhman,</hi> but His Majeſty had as much diſlike of the one, as approbation of the other; yet both of them were excellent preparatives againſt His Majeſties receiving the Meſſage from the Engliſh Com<g ref="char:EOLhyphen"/>miſſioners.</p>
+            <p>Some of the Commiſſioners of each Kingdome viſited each other that evening: but (in regard of the day) nothing was done in a publick way, ſave onely the workes of the day.</p>
+            <p>Yeſterday Jan. 25. The Commiſſioners of both King<g ref="char:EOLhyphen"/>domes met, and had much debate, conſulting of the great af<g ref="char:EOLhyphen"/>faires of the Kingdome, and particularly concerning the buſi<g ref="char:EOLhyphen"/>neſſe about which the Engliſh Commiſſioners came, (viz.) to receive the King, and to bring His Majeſty to <hi>Holmsby</hi> Houſe, in <hi>Northamptonſhire;</hi> as alſo declaring what Inſtructi<g ref="char:EOLhyphen"/>ons they had received from the Parliament: ſo farr as was needfull to declare to the <hi>Scots</hi> Commiſſioners, and concer<g ref="char:EOLhyphen"/>ning them therein, and adviſed with them in relation to the doing therein accordingly. Some part of their debates were a<g ref="char:EOLhyphen"/>bout thoſe appointed to go with the King to <hi>Holmſby</hi> Houſe, and the Engliſh Commiſ: acquainted the <hi>Scots</hi> who they were that the Houſes had choſen, and that they were then with them, onely Mr. <hi>Maul,</hi> was then in thoſe parts, (and as they had heard) with His Maj. already. And the Scots Commiſ: ac<g ref="char:EOLhyphen"/>quainted them, that the Parliament of <hi>Scotland</hi> had choſen the Lord <hi>Loudon,</hi> and the Lord <hi>Garthland</hi> to go with His Maj. as Commiſ. from the Parliament of <hi>Scotland,</hi> to <hi>Holmsby.</hi> Some parts of which debates the Scots concurred immediately with the Engliſh, and ſome things were to be conſidered of; yet ſo that there is not the leaſt obſtruction, or diſagreement in any thing between them. All things being carried on with a mu<g ref="char:EOLhyphen"/>tuall joynt advice, union, and affection; That day the King was acquainted from the Engliſh Commiſſioners, that they were come, deſiring His Maj. Audience to what they had to declare to him from the Parliament; and His Majeſty appoin<g ref="char:EOLhyphen"/>ted them to come on the morrow, and that they ſhould have Audience, and the Commiſſioners prepared all things in rea<g ref="char:EOLhyphen"/>dineſſe accordingly.</p>
+            <pb n="4" facs="tcp:160149:4"/>
+            <p> This day the Commiſſioners went to the King, and have deli<g ref="char:EOLhyphen"/>vered their Meſſage according to their Inſtructions for receiving his Maj. and coming with him to <hi>Holdenby</hi> houſe; as alſo con<g ref="char:EOLhyphen"/>cerning other things related, to what is contained in the ſaid in<g ref="char:EOLhyphen"/>ſtructions.</p>
+            <p>To morrow, or Thurſday next at the furtheſt (it is believed) his Maj. will giue his anſwer: In the mean time, the Commiſ<g ref="char:EOLhyphen"/>ſioners of both Kingdoms meet dayly to carry on the Work u<g ref="char:EOLhyphen"/>nanimouſly, and proceed in all things in love, and brotherly affe<g ref="char:EOLhyphen"/>ction.</p>
+            <p>It is conceived, that his Maj. will be delivered to the Engliſh Commiſſioners on Thurſday, Fryday, or Satturday at furtheſt, The Scots Souldiery march forwards a paſe, all the wayes are levelled for them to <hi>Barwicke.</hi> There are Guns which they call the <hi>Hammiltons,</hi> are ſhipped, and much of their ammunition &amp; goods, wives, children, &amp;c. are gone. The ſouldiers paſſe away dayly, they are all to march out on Saturday: moſt of them goe very willingly; eſpecially thoſe who are conſiderable, though in<g ref="char:EOLhyphen"/>deed ſome of them are diſcontented, Gen. <hi>Leven</hi> carryes himſelf moſt excellently in the mannaging thereof.</p>
+            <p>The 100000. <abbr>l.</abbr> paid at <hi>Northallerton,</hi> is come ſafe to the Scot<g ref="char:EOLhyphen"/>tiſh Army, though with a ſmall Convoy part of the way, yet afterwards there was ſtrength ſufficient: you would not thinke how the bonny Scots laugh &amp; fling up their caps, at the ſight of the monies; to receive which, they haue each of them a ſingular good will.</p>
+            <p>The Country (indeed) is deeply taxed by ſome, &amp; very great Seſments are laid (which is no more then was expected.) But Gen. <hi>Leven</hi> hath publiſhed a Proclamation, upon the Commiſ<g ref="char:EOLhyphen"/>ſioners complaint thereof, upon the receipt of ſome Papers from the Gentlemen of the Country, to command, that no advance-monies be taken, and hath written to our Commiſſioners (there at <hi>Newcastle</hi>) to aſſure them, that if any Officers or Souldiers of<g ref="char:EOLhyphen"/>fend them, that they ſhal be puniſhed, the grievances redreſſed, &amp; the Country haue ſatisfaction. And moreover, that none ſhall take any Cattell, or any thing from the Inhabitants, ſave what they pay for. Concerning which, his Excellency is moſt full in his Proclamation, and promiſe to the Commiſſioners, profeſſing
+<pb n="5" facs="tcp:160149:4"/>by all meanes to uſe all poſſible care for a faire &amp; friendly part<g ref="char:EOLhyphen"/>ing; concerning which, the Commiſſioners have received great ſatisfaction.</p>
+            <p>The Scots Commiſſioners writ to the Parliament of <hi>Scotland</hi> at <hi>Edenburg,</hi> about the diſpute they had with the King, concer<g ref="char:EOLhyphen"/>ning two Quaeres; concerning his Maj. freedome, and going into <hi>Scotland</hi> in ſafety, with their Anſwer. In conſideration whereof, that Parl. have ſent a <hi>Declaration,</hi> and ſome deſires to the Parl. of <hi>England,</hi> which you haue fuller knowledge of at <hi>London,</hi> then we here. And in anſwer thereto, the Parl. of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> have alſo ſent a meſſage to <hi>Newcaſtle;</hi> to let his Maj. know that he cannot go to <hi>Scotland,</hi> and that they haue condeſcended to the Votes of the Parl of <hi>England,</hi> for his Maj. going to <hi>Holm<g ref="char:EOLhyphen"/>by</hi> houſe, and therefore haue appointed the E. of <hi>Lowdon,</hi> &amp; the L. <hi>Garthland</hi> to go with his Maj. as Commiſſioners from them, And for his Maj. freedome, that it is not ſo to be reſtrained by his Majeſties going thither (though with a guard for the pre<g ref="char:EOLhyphen"/>ſent) as that it ſhall be any diminution to his Maj. in his Kingly Government, if he will take the Covenant, and paſſe the Pro<g ref="char:EOLhyphen"/>poſitions of both Kingdoms for Peace, nor any prejudice to his Poſterity.</p>
+            <p>Major Generall <hi>Skippons</hi> Head-quarters is at <hi>Northallerton,</hi> expecting the Scots ſurrendring of their Garriſons; with him are the Commiſſioners of the Army, the Treaſurers, Tellers, Hoſtages, &amp;c.</p>
+            <p>The Engliſh Horſe &amp; Foot are all quartered from thence, a<g ref="char:EOLhyphen"/>bout thoſe parts, all on the South ſide of Tees, who carry them<g ref="char:EOLhyphen"/>ſelves ſo fair y towards the Country, that the Inhabitants doe highly applaud them.</p>
+            <p>And for the Scots, they make no great ſtop in their prepara<g ref="char:EOLhyphen"/>tions to be gone, &amp; give very good ſatisfaction in all things, ſo far as yet we haue had to do with them. And it is the opinion both of the Commiſſioners of the Treaſurers, &amp; of the Army, that all things will be faire to the laſt; and that it will be as honeſt a parting now, as it was the laſt time they came into <hi>England.</hi>
+            </p>
+            <p>The Scots are already ſurrendring the Engliſh Garriſons, as you may ſee by this following Liſt; reſting</p>
+            <closer>
+               <dateline>Newcaſtle <date>Ian. 26. 1646.</date>
+               </dateline>
+               <signed>Your moſt humble ſervant, <hi>W. Sitrauk.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <pb n="6" facs="tcp:160149:5"/>
+               <head>A Liſt of the Engliſh Gariſons ſlighting, quit, and alſo thoſe ſur<g ref="char:EOLhyphen"/>rendred by the Scots, to Major Gen. <hi>Skippon,</hi> and the Eng<g ref="char:EOLhyphen"/>liſh Commiſſioners, on Tueſday Ian. <hi>26.</hi>
+               </head>
+               <list>
+                  <item>1. The City and Garriſon of <hi>Durham</hi> quit, <hi>Ian.</hi> 26.</item>
+                  <item>2. The Garriſon of <hi>Hartlepool,</hi> quit and left.</item>
+                  <item>3. The Garriſon of <hi>Stockton</hi> alſo quit, and the Engliſh Dra<g ref="char:EOLhyphen"/>gooners have taken poſſeſſion thereof.</item>
+               </list>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
